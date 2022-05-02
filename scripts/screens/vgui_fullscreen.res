@@ -1,5 +1,5 @@
-// 848 480
-vgui_fullscreen.res
-{
-
-}
+// 848 480
+vgui_fullscreen.res
+{
+
+}

@@ -1,3 +1,3 @@
-"Resource/UI/HudWeapons.res"
-{
+"Resource/UI/HudWeapons.res"
+{
 }

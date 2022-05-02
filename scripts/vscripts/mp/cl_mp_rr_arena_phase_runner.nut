@@ -1,6 +1,6 @@
-global function ClientCodeCallback_MapInit
-
-void function ClientCodeCallback_MapInit()
-{
-	ShInit_PhaseRunner()
+global function ClientCodeCallback_MapInit
+
+void function ClientCodeCallback_MapInit()
+{
+	ShInit_PhaseRunner()
 }

@@ -1,9 +1,9 @@
-                                                                                                                  
-                                                                            
-                                                                 
-
-global const bool DFS_MAGIC_SERVER_STRIPPED = false                                                                                                  
-#if DFS_MAGIC_SERVER_STRIPPED
-                                                                        
-#endif
-
+                                                                                                                  
+                                                                            
+                                                                 
+
+global const bool DFS_MAGIC_SERVER_STRIPPED = false                                                                                                  
+#if DFS_MAGIC_SERVER_STRIPPED
+                                                                        
+#endif
+
