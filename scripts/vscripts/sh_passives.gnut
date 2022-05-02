@@ -770,14 +770,6 @@ bool function PlayerHasPassive( entity player, int passive )
 
 {
 
-	if (passive == ePassives.PAS_LOBA_EYE_FOR_QUALITY)
-
-	{
-
-		return true
-
-	}
-
 	return player.HasPassive( passive )
 
 }
